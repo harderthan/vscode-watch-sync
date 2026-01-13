@@ -3,7 +3,7 @@
   "displayName": "Watch Sync",
   "description": "Sync local directory to remote via SSH/rsync using inotifywait",
   "version": "0.0.1",
-  "publisher": "nicky",
+  "publisher": "NickyKim",
   "license": "MIT",
   "icon": "images/watch_sync.png",
   "engines": {
